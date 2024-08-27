@@ -1,9 +1,6 @@
-[submodule "www/homepage"]
-	path = www/homepage
-	url = git@github.com:bs10x/homepage.git
 [submodule "src"]
 	path = src
-	url = git@github.com:bs10x/src.git
+	url = git@github.com:bfeitknecht/src.git
 [submodule "vault"]
 	path = vault
-	url = git@github.com:bs10x/vault.git
+	url = git@github.com:bfeitknecht/vault.git
